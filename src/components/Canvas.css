@@ -1,0 +1,23 @@
+.canvas-wrap {
+    height: calc(68*0.48vh);
+    /*background-color: red*/
+    /*z-index: 20000;*/
+}
+
+.button-wrap {
+    font-size: 14px;
+    line-height: 45px;
+    width: calc(68*0.26vh);
+    height: calc(68*0.24vh);
+    margin-left: calc(68*0.4vh);
+    margin-top: calc(-68*0.1vh);
+    /*background-color: lightcoral;*/
+}
+.component-canvas{
+    z-index: 10000;
+    top: calc(12% + 68*0.38vh);
+    position: fixed;
+    left: calc((12% + 39vw - 34vh) + 68*0.333vh);
+    width: calc(68*0.48vh);
+    height: calc(68*0.48vh);
+}

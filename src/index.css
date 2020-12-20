@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+* { cursor: url('./hand1.ico'),default;}
+
+
+.gWkAoD{
+  margin-left: 10vw;
+  margin-right: 0;
+}
+
+.gWjOPI{
+  margin-left: 10vw;
+}
+
+.sc-gtssRu > div{
+  margin-right: 0;
+}
+
+
+.sPgfr {
+  margin-left: 10vw;
+  margin-right: 0;
+}
+
+
+.sPgfs{
+  margin-left: 10vw;
+}
