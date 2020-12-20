@@ -33,36 +33,36 @@ const {Meta} = Card
 let i = 0
 
 
-const close4="http://qkfidjpxa.hn-bkt.clouddn.com/close1.jpg"
-const cross4="http://qkfidjpxa.hn-bkt.clouddn.com/crossRoad123.png"
-const cut4="http://qkfidjpxa.hn-bkt.clouddn.com/cut1.jpg"
-const haul="http://qkfidjpxa.hn-bkt.clouddn.com/haul1.jpg"
-const paint="http://qkfidjpxa.hn-bkt.clouddn.com/paint1.jpg"
-const peel="http://qkfidjpxa.hn-bkt.clouddn.com/peel1.jpg"
-const push="http://qkfidjpxa.hn-bkt.clouddn.com/push1.jpg"
-const rub="http://qkfidjpxa.hn-bkt.clouddn.com/rub1.jpg"
-const tear="http://qkfidjpxa.hn-bkt.clouddn.com/tear1.jpg"
-const write="http://qkfidjpxa.hn-bkt.clouddn.com/write123my.png"
+const close4="http://qln3al27f.hn-bkt.clouddn.com/close1.jpg"
+const cross4="http://qln3al27f.hn-bkt.clouddn.com/crossRoad123.png"
+const cut4="http://qln3al27f.hn-bkt.clouddn.com/cut1.jpg"
+const haul="http://qln3al27f.hn-bkt.clouddn.com/haul1.jpg"
+const paint="http://qln3al27f.hn-bkt.clouddn.com/paint1.jpg"
+const peel="http://qln3al27f.hn-bkt.clouddn.com/peel1.jpg"
+const push="http://qln3al27f.hn-bkt.clouddn.com/push1.jpg"
+const rub="http://qln3al27f.hn-bkt.clouddn.com/rub1.jpg"
+const tear="http://qln3al27f.hn-bkt.clouddn.com/tear1.jpg"
+const write="http://qln3al27f.hn-bkt.clouddn.com/write123my.png"
 
-const writeGIF = "http://qkfidjpxa.hn-bkt.clouddn.com/writeGIFF.gif"
-const paintGIF = "http://qkfidjpxa.hn-bkt.clouddn.com/paint_Gai.gif"
-const peelGIF = "http://qkfidjpxa.hn-bkt.clouddn.com/pealApple.gif"
-const clearBoardGIF = "http://qkfidjpxa.hn-bkt.clouddn.com/clearBoard.gif"
-const pushGIF = "http://qkfidjpxa.hn-bkt.clouddn.com/push_GAI.gif"
-const closeGIF = "http://qkfidjpxa.hn-bkt.clouddn.com/closeDoor.gif"
-const crossGIF = "http://qkfidjpxa.hn-bkt.clouddn.com/crossRoad.gif"
-const cutCakeGIF = "http://qkfidjpxa.hn-bkt.clouddn.com/cutCAke.gif"
-const tearDownGIF = "http://qkfidjpxa.hn-bkt.clouddn.com/tearDown.gif"
-const haulCar = "http://qkfidjpxa.hn-bkt.clouddn.com/haul_GAI.gif"
+const writeGIF = "http://qln3al27f.hn-bkt.clouddn.com/writeGIFF.gif"
+const paintGIF = "http://qln3al27f.hn-bkt.clouddn.com/paint_Gai.gif"
+const peelGIF = "http://qln3al27f.hn-bkt.clouddn.com/pealApple.gif"
+const clearBoardGIF = "http://qln3al27f.hn-bkt.clouddn.com/clearBoard.gif"
+const pushGIF = "http://qln3al27f.hn-bkt.clouddn.com/push_GAI.gif"
+const closeGIF = "http://qln3al27f.hn-bkt.clouddn.com/closeDoor.gif"
+const crossGIF = "http://qln3al27f.hn-bkt.clouddn.com/crossRoad.gif"
+const cutCakeGIF = "http://qln3al27f.hn-bkt.clouddn.com/cutCAke.gif"
+const tearDownGIF = "http://qln3al27f.hn-bkt.clouddn.com/tearDown.gif"
+const haulCar = "http://qln3al27f.hn-bkt.clouddn.com/haul_GAI.gif"
 
 const imgGroup = [close4, cross4, cut4, haul, paint, peel, push, rub, tear, write]
 const imgGIF = [closeGIF, crossGIF, cutCakeGIF, haulCar, paintGIF, peelGIF, pushGIF, clearBoardGIF, tearDownGIF, writeGIF]
 
-const toEndImg = ["http://qkfidjpxa.hn-bkt.clouddn.com/AAcloseDoor.png","http://qkfidjpxa.hn-bkt.clouddn.com/AcrossRoad.png",
-    "http://qkfidjpxa.hn-bkt.clouddn.com/AcutCAke.png","http://qkfidjpxa.hn-bkt.clouddn.com/Ahaul_GAI.png",
-"http://qkfidjpxa.hn-bkt.clouddn.com/Apaint_Gai.png","http://qkfidjpxa.hn-bkt.clouddn.com/ApealApple.png",
-    "http://qkfidjpxa.hn-bkt.clouddn.com/Apush_GAI.png","http://qkfidjpxa.hn-bkt.clouddn.com/AclearBoard.png",
-"http://qkfidjpxa.hn-bkt.clouddn.com/AtearDown.png","http://qkfidjpxa.hn-bkt.clouddn.com/AwriteZi.png"]
+const toEndImg = ["http://qln3al27f.hn-bkt.clouddn.com/AAcloseDoor.png","http://qln3al27f.hn-bkt.clouddn.com/AcrossRoad.png",
+    "http://qln3al27f.hn-bkt.clouddn.com/AcutCAke.png","http://qln3al27f.hn-bkt.clouddn.com/Ahaul_GAI.png",
+"http://qln3al27f.hn-bkt.clouddn.com/Apaint_Gai.png","http://qln3al27f.hn-bkt.clouddn.com/ApealApple.png",
+    "http://qln3al27f.hn-bkt.clouddn.com/Apush_GAI.png","http://qln3al27f.hn-bkt.clouddn.com/AclearBoard.png",
+"http://qln3al27f.hn-bkt.clouddn.com/AtearDown.png","http://qln3al27f.hn-bkt.clouddn.com/AwriteZi.png"]
 
 const loadImg = [close4, cross4, cut4, haul, paint, peel, push, rub, tear, write, closeGIF, crossGIF, cutCakeGIF, haulCar, paintGIF, peelGIF, pushGIF, clearBoardGIF, tearDownGIF, writeGIF]
 
@@ -710,61 +710,61 @@ class Click extends React.Component {
         return (
             <div style={{width:'100%',height:'100%',zIndex:'-100',position:'fixed',top:0}}>
                 <Sound
-                    url="http://qkfidjpxa.hn-bkt.clouddn.com/crossA.mp3"
+                    url="http://qln3al27f.hn-bkt.clouddn.com/crossA.mp3"
                     playStatus={this.state.audioA[0] ? Sound.status.PLAYING : Sound.status.STOPPED}
                     autoLoad={true}
                     onFinishedPlaying={()=>this.setState({audioA: [false,false,false,false,false,false,false,false,false,false]})}
                 />
                 <Sound
-                    url="http://qkfidjpxa.hn-bkt.clouddn.com/cutA.mp3"
+                    url="http://qln3al27f.hn-bkt.clouddn.com/cutA.mp3"
                     playStatus={this.state.audioA[1] ? Sound.status.PLAYING : Sound.status.STOPPED}
                     autoLoad={true}
                     onFinishedPlaying={()=>this.setState({audioA: [false,false,false,false,false,false,false,false,false,false]})}
                 />
                 <Sound
-                    url="http://qkfidjpxa.hn-bkt.clouddn.com/haulA.mp3"
+                    url="http://qln3al27f.hn-bkt.clouddn.com/haulA.mp3"
                     playStatus={this.state.audioA[2] ? Sound.status.PLAYING : Sound.status.STOPPED}
                     autoLoad={true}
                     onFinishedPlaying={()=>this.setState({audioA: [false,false,false,false,false,false,false,false,false,false]})}
                 />
                 <Sound
-                    url="http://qkfidjpxa.hn-bkt.clouddn.com/paintA.mp3"
+                    url="http://qln3al27f.hn-bkt.clouddn.com/paintA.mp3"
                     playStatus={this.state.audioA[3] ? Sound.status.PLAYING : Sound.status.STOPPED}
                     autoLoad={true}
                     onFinishedPlaying={()=>this.setState({audioA: [false,false,false,false,false,false,false,false,false,false]})}
                 />
                 <Sound
-                    url="http://qkfidjpxa.hn-bkt.clouddn.com/peelA.mp3"
+                    url="http://qln3al27f.hn-bkt.clouddn.com/peelA.mp3"
                     playStatus={this.state.audioA[4] ? Sound.status.PLAYING : Sound.status.STOPPED}
                     autoLoad={true}
                     onFinishedPlaying={()=>this.setState({audioA: [false,false,false,false,false,false,false,false,false,false]})}
                 />
                 <Sound
-                    url="http://qkfidjpxa.hn-bkt.clouddn.com/pushA.mp3"
+                    url="http://qln3al27f.hn-bkt.clouddn.com/pushA.mp3"
                     playStatus={this.state.audioA[5] ? Sound.status.PLAYING : Sound.status.STOPPED}
                     autoLoad={true}
                     onFinishedPlaying={()=>this.setState({audioA: [false,false,false,false,false,false,false,false,false,false]})}
                 />
                 <Sound
-                    url="http://qkfidjpxa.hn-bkt.clouddn.com/rubA.mp3"
+                    url="http://qln3al27f.hn-bkt.clouddn.com/rubA.mp3"
                     playStatus={this.state.audioA[6] ? Sound.status.PLAYING : Sound.status.STOPPED}
                     autoLoad={true}
                     onFinishedPlaying={()=>this.setState({audioA: [false,false,false,false,false,false,false,false,false,false]})}
                 />
                 <Sound
-                    url="http://qkfidjpxa.hn-bkt.clouddn.com/tearAgai.mp3"
+                    url="http://qln3al27f.hn-bkt.clouddn.com/tearAgai.mp3"
                     playStatus={this.state.audioA[7] ? Sound.status.PLAYING : Sound.status.STOPPED}
                     autoLoad={true}
                     onFinishedPlaying={()=>this.setState({audioA: [false,false,false,false,false,false,false,false,false,false]})}
                 />
                 <Sound
-                    url="http://qkfidjpxa.hn-bkt.clouddn.com/writeA.mp3"
+                    url="http://qln3al27f.hn-bkt.clouddn.com/writeA.mp3"
                     playStatus={this.state.audioA[8] ? Sound.status.PLAYING : Sound.status.STOPPED}
                     autoLoad={true}
                     onFinishedPlaying={()=>this.setState({audioA: [false,false,false,false,false,false,false,false,false,false]})}
                 />
                 <Sound
-                    url="http://qkfidjpxa.hn-bkt.clouddn.com/closeA.mp3"
+                    url="http://qln3al27f.hn-bkt.clouddn.com/closeA.mp3"
                     playStatus={this.state.audioA[-1] ? Sound.status.PLAYING : Sound.status.STOPPED}
                     autoLoad={true}
                     onFinishedPlaying={()=>this.setState({audioA: [false,false,false,false,false,false,false,false,false,false]})}
@@ -773,61 +773,61 @@ class Click extends React.Component {
 
 
                 <Sound
-                    url="http://qkfidjpxa.hn-bkt.clouddn.com/crossB.mp3"
+                    url="http://qln3al27f.hn-bkt.clouddn.com/crossB.mp3"
                     playStatus={this.state.audioB[0] ? Sound.status.PLAYING : Sound.status.STOPPED}
                     autoLoad={true}
                     onFinishedPlaying={()=>this.setState({audioB: [false,false,false,false,false,false,false,false,false,false], isAllowed: true})}
                 />
                 <Sound
-                    url="http://qkfidjpxa.hn-bkt.clouddn.com/cutB.mp3"
+                    url="http://qln3al27f.hn-bkt.clouddn.com/cutB.mp3"
                     playStatus={this.state.audioB[1] ? Sound.status.PLAYING : Sound.status.STOPPED}
                     autoLoad={true}
                     onFinishedPlaying={()=>this.setState({audioB: [false,false,false,false,false,false,false,false,false,false], isAllowed: true})}
                 />
                 <Sound
-                    url="http://qkfidjpxa.hn-bkt.clouddn.com/haulB.mp3"
+                    url="http://qln3al27f.hn-bkt.clouddn.com/haulB.mp3"
                     playStatus={this.state.audioB[2] ? Sound.status.PLAYING : Sound.status.STOPPED}
                     autoLoad={true}
                     onFinishedPlaying={()=>this.setState({audioB: [false,false,false,false,false,false,false,false,false,false], isAllowed: true})}
                 />
                 <Sound
-                    url="http://qkfidjpxa.hn-bkt.clouddn.com/paintB.mp3"
+                    url="http://qln3al27f.hn-bkt.clouddn.com/paintB.mp3"
                     playStatus={this.state.audioB[3] ? Sound.status.PLAYING : Sound.status.STOPPED}
                     autoLoad={true}
                     onFinishedPlaying={()=>this.setState({audioB: [false,false,false,false,false,false,false,false,false,false], isAllowed: true})}
                 />
                 <Sound
-                    url="http://qkfidjpxa.hn-bkt.clouddn.com/peelB.mp3"
+                    url="http://qln3al27f.hn-bkt.clouddn.com/peelB.mp3"
                     playStatus={this.state.audioB[4] ? Sound.status.PLAYING : Sound.status.STOPPED}
                     autoLoad={true}
                     onFinishedPlaying={()=>this.setState({audioB: [false,false,false,false,false,false,false,false,false,false], isAllowed: true})}
                 />
                 <Sound
-                    url="http://qkfidjpxa.hn-bkt.clouddn.com/pushB.mp3"
+                    url="http://qln3al27f.hn-bkt.clouddn.com/pushB.mp3"
                     playStatus={this.state.audioB[5] ? Sound.status.PLAYING : Sound.status.STOPPED}
                     autoLoad={true}
                     onFinishedPlaying={()=>this.setState({audioB: [false,false,false,false,false,false,false,false,false,false], isAllowed: true})}
                 />
                 <Sound
-                    url="http://qkfidjpxa.hn-bkt.clouddn.com/rubB.mp3"
+                    url="http://qln3al27f.hn-bkt.clouddn.com/rubB.mp3"
                     playStatus={this.state.audioB[6] ? Sound.status.PLAYING : Sound.status.STOPPED}
                     autoLoad={true}
                     onFinishedPlaying={()=>this.setState({audioB: [false,false,false,false,false,false,false,false,false,false], isAllowed: true})}
                 />
                 <Sound
-                    url="http://qkfidjpxa.hn-bkt.clouddn.com/tearBgai.mp3"
+                    url="http://qln3al27f.hn-bkt.clouddn.com/tearBgai.mp3"
                     playStatus={this.state.audioB[7] ? Sound.status.PLAYING : Sound.status.STOPPED}
                     autoLoad={true}
                     onFinishedPlaying={()=>this.setState({audioB: [false,false,false,false,false,false,false,false,false,false], isAllowed: true})}
                 />
                 <Sound
-                    url="http://qkfidjpxa.hn-bkt.clouddn.com/writeB.mp3"
+                    url="http://qln3al27f.hn-bkt.clouddn.com/writeB.mp3"
                     playStatus={this.state.audioB[8] ? Sound.status.PLAYING : Sound.status.STOPPED}
                     autoLoad={true}
                     onFinishedPlaying={()=>this.setState({audioB: [false,false,false,false,false,false,false,false,false,false], isAllowed: true})}
                 />
                 <Sound
-                    url="http://qkfidjpxa.hn-bkt.clouddn.com/closeB.mp3"
+                    url="http://qln3al27f.hn-bkt.clouddn.com/closeB.mp3"
                     playStatus={this.state.audioB[-1] ? Sound.status.PLAYING : Sound.status.STOPPED}
                     autoLoad={true}
                     onFinishedPlaying={()=>this.setState({audioB: [false,false,false,false,false,false,false,false,false,false], isAllowed: true})}
